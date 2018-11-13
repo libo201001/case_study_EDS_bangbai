@@ -1,7 +1,7 @@
 ## Bill's Questions & Answers
 * GPS 
 
-  1. Question:
+  Question:
   Global Positioning System (GPS) is a:
   
   Choice:
