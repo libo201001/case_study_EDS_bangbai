@@ -5,10 +5,10 @@
   Global Positioning System (GPS) is a:
   
   * Choice:
-  A. Satellite WordStation (0)
-  B. Satellite System (1)
-  C. Satellite Signal (0)
-  D. Satellite Solution (0)
+   * Satellite WordStation (0)
+   * Satellite System (1)
+   * Satellite Signal (0)
+   * Satellite Solution (0)
 
 2. Scalability
   
