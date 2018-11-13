@@ -1,7 +1,7 @@
 ## Bill's Questions & Answers
-1. GPS 
+* GPS 
 
-  Question:
+  1. Question:
   Global Positioning System (GPS) is a:
   
   Choice:
@@ -17,5 +17,4 @@
 ## Diego
 
 * Custom Software
-
-* REST
+A 
