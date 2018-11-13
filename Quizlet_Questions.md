@@ -1,10 +1,10 @@
 ## Bill's Questions & Answers
 * GPS 
 
-  Question:
+  * Question:
   Global Positioning System (GPS) is a:
   
-  Choice:
+  * Choice:
   A. Satellite WordStation (0)
   B. Satellite System (1)
   C. Satellite Signal (0)
